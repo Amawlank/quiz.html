@@ -1,0 +1,45 @@
+body {
+	font-family: Arial Verdana sans-serif;
+	color: #000;
+}
+
+h1 {
+	font-size: 4rem;
+}
+
+nav>a {
+	display: inline-block;
+	padding: 1rem;
+	background-color: #007FFF;
+	color: #FFF;
+	text-decoration: none;
+}
+
+nav>a.hover {
+	background-color: #888;
+}
+
+h2 {
+	font-size: 3rem;
+	margin: 3rem 0 0.5rem;
+}
+
+h1, h2 {
+	font-weight: normal;
+}
+
+figure {
+	margin-left: 0;
+}
+
+blockquote {
+	font-size: 2rem;
+	font-style: italic;
+	color; orange;
+	margin: 0;
+}
+
+.footer{
+	background-colour: rgb(150,150,150);
+	color:white;
+}
